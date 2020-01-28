@@ -1,0 +1,7 @@
+C:\AL_SELENIUM\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.deps.json
+C:\AL_SELENIUM\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.dll
+C:\AL_SELENIUM\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.pdb
+C:\AL_SELENIUM\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.AssemblyInfoInputs.cache
+C:\AL_SELENIUM\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.AssemblyInfo.cs
+C:\AL_SELENIUM\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.dll
+C:\AL_SELENIUM\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.pdb
